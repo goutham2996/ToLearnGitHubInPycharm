@@ -1,0 +1,2 @@
+class EEE:
+    print("EEE")
